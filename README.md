@@ -2,4 +2,4 @@
 
 ### The medium home page was cloned using with html-css-bootstrap.
 
-Link Demo: https://mediumclonebt-basic.netlify.app/
+<a=href="https://mediumclonebt-basic.netlify.app/" Link Demo>
